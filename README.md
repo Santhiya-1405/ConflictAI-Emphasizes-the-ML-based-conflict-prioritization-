@@ -1,4 +1,4 @@
-# MAPF Hybrid Simulator - LaCAM + Random Forest + CBS
+ConflictAI (Emphasizes the ML-based conflict prioritization)
 
 An interactive Multi-Agent Path Finding (MAPF) simulator with three solvers
 available side by side:
