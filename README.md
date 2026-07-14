@@ -1,4 +1,4 @@
- ConflictAI: Hybrid AI-Based Multi-Agent Path Finding (MAPF)
+ ConflictAI: AI-Based Multi-Agent Path Finding (MAPF)
 
 An interactive Multi-Agent Path Finding (MAPF) simulator that integrates **LaCAM**, **Conflict-Based Search (CBS)**, and a **Machine Learning (Random Forest)** model for intelligent conflict prioritization. The project provides real-time visualization, conflict detection, performance analysis, and benchmark evaluation for multi-agent navigation in grid-based warehouse environments.
 
