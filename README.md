@@ -41,6 +41,7 @@ The simulator also provides performance statistics, visualization, and automatic
  🏗 Hybrid Solver Workflow
 
 Warehouse/Grid
+
 ↓
 
 Independent A* Path Generation
