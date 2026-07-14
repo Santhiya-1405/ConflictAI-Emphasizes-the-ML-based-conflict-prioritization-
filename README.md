@@ -305,6 +305,3 @@ pip install -r requirements.txt
 
 ---
 
-This project is developed for educational and research purposes.
-
-⭐ If you find this project useful, please consider giving it a star on GitHub.
