@@ -192,7 +192,7 @@ The simulator reports:
 📂 Project Structure
 
 ```
-ConflictAI/
+ConflictAI_updated/
 │
 ├── main.py                 # Main simulator
 ├── ui.py                   # User interface
@@ -223,9 +223,9 @@ ConflictAI/
 ⚙ Installation
 
 ```bash
-git clone https://github.com/yourusername/ConflictAI.git
+git clone https://github.com/Santhiya-1405/ConflictAI-Emphasizes-the-ML-based-conflict-prioritization-
 
-cd ConflictAI
+cd ConflictAI_updated
 
 pip install -r requirements.txt
 ```
